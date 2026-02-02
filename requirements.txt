@@ -6,4 +6,4 @@ scipy
 uvicorn
 fastapi
 streamlit
-altair
+altair<5
